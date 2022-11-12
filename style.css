@@ -1,0 +1,36 @@
+body{
+   background-image: url(https://i.ytimg.com/vi/cnYJlpSUf74/maxresdefault.jpg);
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+.titulo1{
+    background-color: rgb(255, 0, 0);
+    color: white;
+    font-size: 4rem;
+    display: flex;
+    justify-content: center;
+    font-family: 'Lobster', cursive;
+}
+.titulo2{
+    color:white;
+    font-size: 2rem;
+    font-family: 'Lobster', cursive;
+}
+li{
+    color: rgb(248, 244, 241);
+    font-size: 1.5rem;
+
+}
+.contenedor{
+    display: flex;
+    justify-content: center;
+}
+button{
+    background-color: aqua;
+    font-size: 1.5rem;
+    justify-content: center;
+}
+.baile{
+    display: flex;
+    justify-content: center;
+}
